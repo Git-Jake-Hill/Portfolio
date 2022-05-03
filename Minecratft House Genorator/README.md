@@ -5,7 +5,7 @@ OOP was used for this team project. All the objects inherit from a Cuboid parent
 
 ## Overall random generator
     Here is an example of the main.py file running to produce three random houses.
-    ![C:\Users\jakem\github_repo\Portfolio\Minecratft House Genorator\random_build.gif]
+    ![}(random_build.gif)
 
 
 ## Some of the features:
@@ -18,4 +18,4 @@ OOP was used for this team project. All the objects inherit from a Cuboid parent
 
 ## Internal wall division
     Here is an example of the internal room division adding internal walls, doors and windows.
-    ![C:\Users\jakem\github_repo\Portfolio\Minecratft House Genorator\internal_divisions.gif]
+    ![}(internal_divisions.gif)
