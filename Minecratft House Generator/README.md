@@ -8,7 +8,7 @@ OOP was used for this team project. All the objects inherit from a Cuboid parent
 ---
 
 ## Features
-- The house generator is able to handle random sizes for house width/lenght.
+- The house generator is able to handle random sizes for house width/length.
 - Internal rooms are recursively divided until a minimum size from a specified random range is reached. 
 - When placing int walls, the code checks for doors and windows in the way. 
     - If one is found, another position is randomly selected from a list of possible options. 
